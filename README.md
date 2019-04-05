@@ -26,7 +26,7 @@ npm install
 - Build and run the project
 ```
 npm run build
-npm start
+npm run watch
 ```
 
 ## Running the tests
@@ -47,7 +47,8 @@ This also generates a coverage report
 
 ## Authors
 
-* **Daniel Coto** - *Initial work* - [dcoto](https://github.com/dcoto)
+* **Sergei
+* **Alexander
 
 ## License
 
