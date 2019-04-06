@@ -1,10 +1,6 @@
-# Typescript Hapi Starter
+# NS
 
-Basic starter boilerplate for getting started with TypeScript and Hapi
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Server for NS project
 
 ### Prerequisites
 
@@ -12,14 +8,10 @@ You will need to have Node.js installed on your machine
 
 - Install [Node.js](https://nodejs.org/en/)
 
-### Getting started
-- Clone the repository
-```
-git clone --depth=1 https://github.com/dcoto/typescript-hapi-starter.git <project_name>
+### Run server
 ```
 - Install dependencies
 ```
-cd <project_name>
 npm install
 ```
 
@@ -47,8 +39,8 @@ This also generates a coverage report
 
 ## Authors
 
-* **Sergei
-* **Alexander
+* Sergei
+* Alexander
 
 ## License
 
